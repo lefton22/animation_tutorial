@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DFB8C1E6-B4AD-132E-9B14-A2964C14AD55}") = "2darttut", "Assembly-CSharp.csproj", "{63E68828-D224-C1EF-51B0-1CBF43F36433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E68828-D224-C1EF-51B0-1CBF43F36433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E68828-D224-C1EF-51B0-1CBF43F36433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E68828-D224-C1EF-51B0-1CBF43F36433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E68828-D224-C1EF-51B0-1CBF43F36433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
